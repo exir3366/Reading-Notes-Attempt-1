@@ -1,3 +1,3 @@
 # Reading Notes
-Markdown Reading
-Growth Mindset Reading
+- Markdown Reading
+- Growth Mindset Reading
